@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_icon" translatable="false">ic_launcher</string>
+    <string name="notification_large_icon" translatable="false">ic_launcher</string>
+    
+</resources>
